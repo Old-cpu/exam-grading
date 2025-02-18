@@ -1,0 +1,3 @@
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = git@github.com:Old-cpu/TinyInfiniTensor.git
